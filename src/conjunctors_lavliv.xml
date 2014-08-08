@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="lav">
+<e> <lg> <l pos="CC">bet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CC_" pos="">agā</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">ja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">aʼž</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">ne ..., ne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CONJ_" pos="">äʼb ..., äʼb</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">bet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CC_" pos="">bet</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">un</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CC_" pos="">ja</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">lai gan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">koks</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">kaut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">koks</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">kaut arī</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">kokska</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">kad</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">ku</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">ka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">ku</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">kad</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">kunā</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">kamēr</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">kuņtš</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">kaut kur</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">kus</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">turklāt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">misjūs</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">kāpēc</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">mispierāst</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">kā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">nemē</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">it kā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">nemē</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">tā kā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">nemē</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">tikai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CONJ_" pos="">set</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">tik</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CONJ_" pos="">set</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">taču</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CONJ_" pos="">set</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">vien</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CONJ_" pos="">set</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">jo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CS_" pos="">sīest</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">un</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="CC_" pos="">un</t> </tg> </mg> </e>
+</r>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="lav">
+<e> <lg> <l pos="Pron">visi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TUBĀ-PL" pos="Pron">amād</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kāds</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TŪĻI" pos="Pron">ätsmingi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">savs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_" pos="Pron">eņtš 1</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">paša</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_" pos="Pron">eņtš 1</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">to visu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TUBĀ" pos="Pron">īʼdt|aʼmmõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">viens otru</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_NAI" pos="Pron">īʼd|tuoiz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">viens</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_ĪKŠ" pos="Pron">ikš 2</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">vienots</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_ĪKŠ" pos="Pron">ikš 2</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">pats</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_ĪʼŽ" pos="Pron">īʼž 1</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">atsevišķs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_SĒMI" pos="Pron">īʼžki</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">īpašs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_SĒMI" pos="Pron">īʼžki</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">sevišķs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_SĒMI" pos="Pron">īʼžki</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">katrs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="PRON_JEGĀ" pos="Pron">jegā</t> <t Contlex="PRON_JEGĀ" pos="Pron">jegā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ikviens</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_ĪKŠ" pos="Pron">jegā|ikš</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">katrs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_ĪKŠ" pos="Pron">jegā|ikš</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_KIS" pos="Pron">kis</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kurš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_KIS" pos="Pron">kis</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">katrs (no abiem)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="PRON_TŪĻI" pos="Pron">kummi</t> <t Contlex="PRON_ĀIGAST" pos="Pron">kummit</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">abi divi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_ĀIGAST" pos="Pron">kummit</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">es</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MINĀ" pos="Pron">ma</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mēs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MĒG" pos="Pron">mēg</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kaut kas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="PRON_MIDĀGÕD" pos="Pron">midāgõd</t> <t Contlex="PRON_" pos="Pron">midēd</t> <t Contlex="PRON_MIDĀGÕD" pos="Pron">midēgõd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">es</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MINĀ" pos="Pron">minā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kāds</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TŪĻI" pos="Pron">mingi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">dažs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TŪĻI" pos="Pron">mingi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TŪĻI" pos="Pron">mingi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kurš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TŪĻI" pos="Pron">mingi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kas (par nedzīvām būtnēm)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MIS" pos="Pron">mis</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kurš (par nedzīvām būtnēm)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MIS" pos="Pron">mis</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kas (par dzīvām būtnēm)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MIS" pos="Pron">mis</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kurš (par dzīvām būtnēm)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MIS" pos="Pron">mis</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">neviens</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_ĪKŠ" pos="Pron">mitikš</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">vairāki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MITS-PL" pos="Pron">mitmõd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">cik</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MITS" pos="Pron">mits</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kurš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_VĪDÕZ" pos="Pron">mitsmõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">uz cikiem</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MITS" pos="Pron">mitsõks</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">cikos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MITS" pos="Pron">mitsõks</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">abi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_AZŪM-PL" pos="Pron">mȯʼlmõd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">cits</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MŪ" pos="Pron">mū</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">dažs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_ĀITA" pos="Pron">mūnda</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kāds</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_ĀITA" pos="Pron">mūnda</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">citi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_" pos="Pron">munt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">viņi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="PRON_NÄMĀD" pos="Pron">nämād</t> <t Contlex="PRON_NE" pos="Pron">ne</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">šie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_NE" pos="Pron">ne</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_NE" pos="Pron">ne</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_SINĀ" pos="Pron">sa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">šis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_SE" pos="Pron">se</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_SE" pos="Pron">se</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tas pats</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_ĪʼŽ" pos="Pron">seīʼž</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">šāds</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TŪĻI" pos="Pron">seļļi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tāds</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TŪĻI" pos="Pron">seļļi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tāds pats</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TŪĻI" pos="Pron">seļļiīʼž</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">šāds tāds</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TŪĻI" pos="Pron">seļļi-tūoļi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">vairāki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MITS" pos="Pron">set</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">daudz</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_MITS" pos="Pron">set</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">vairāki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_" pos="Pron">setmiņ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_SINĀ" pos="Pron">sinā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">viņš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TÄMĀ" pos="Pron">ta</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TÄMĀ" pos="Pron">ta</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">viņš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TÄMĀ" pos="Pron">tämā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TÄMĀ" pos="Pron">tämā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jūs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PRON_TĒG" pos="Pron">tēg</t> </tg> </mg> </e>
+</r>

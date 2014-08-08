@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="lav">
+<e> <lg> <l pos="Interj">palīgā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">aʼbbõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ahā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ahā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">aha</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ahah</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ai</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">paldies</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">aițumāl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ak</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ak</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">āmen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">āmen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">atā, atā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ațā-ațā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">vau</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">auh</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">e</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ä</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">nē</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">äp</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">vau, vau</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">bäh-bäh</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">buks</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">bokt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">blaukš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">boukt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">mū, mū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">bȱ-bȱu</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">dzin-dzin-dzin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">dziņ-dziņ-dziņ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">dzin-dzin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">džin-džin</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">čī, čī</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">hilp-hilp</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hop</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">hop</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">čiep</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">kīep</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kikerigū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">kikrikik</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">knakt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">kniukt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">blaukš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">kolkst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">krā-krā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">krouv-krouv</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kvā, kvā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">kvär-kvär</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">nū, ej nu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">lini</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">marš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">marš</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">mē</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">mǟ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ņau</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">miau</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="INTERJ_" pos="Interj">misǟ</t> <t Contlex="INTERJ_" pos="Interj">misǟ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">mū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">mū</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">jā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">nä</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">tā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">nä</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">nä</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">jā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">nǟʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">nu jā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">nonǟ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">nu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">nō-o</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">nū</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">nȭ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ņam-ņam</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ņäm-ņäm</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ņur</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ņurrā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">o</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ō</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">oho</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ō</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ruk-ruk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">of-of</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">oho</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">oho</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">oi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ak</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ok</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">aidā</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">oplā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">pēkš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">pǟk</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">pļukt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">pätš</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">čiep</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">piuks</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">blaukš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">potst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">prozit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">prōzit</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">tprū (pavēle zirga apturēšanai)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">ptrū</t> </tg> </mg> </e>
+
+<e> <lg> <l pos="Interj">ruk-ruk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">roh-roh</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">škic</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">skõts</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">plaukš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">šläukt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">šurpu turpu (grīļojoties)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">šlīnga-šlǟnga</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">sveiks, sveiki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">tēriņtš</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">tiš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">tiš</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">re, skat, lūk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">tō</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kraukš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">tšärrks</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">čiep čiep, čī čī</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">tšīk-tšīk</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">plunkš</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">tšuļļaka</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">sauciens govju saukšanai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">uŗū</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">skat, lūk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">vā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">re</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">vā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">lūk, re, skat</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">vāņ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">re, skat, lūk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">vațõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">vau</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">vau</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ļiku ļeku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">vikā-väkā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">▫ pag</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">vȯʼd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">vai, ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">vȯi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="INTERJ_" pos="Interj">vȯijē</t> </tg> </mg> </e>
+</r>

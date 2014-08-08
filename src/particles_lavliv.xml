@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="lav">
+<e> <lg> <l pos="Pcle">vai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PCLE_" pos="Pcle">või</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">lai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="PCLE_" pos="Pcle">laʼz</t> <t Contlex="PCLE_" pos="Pcle">ku</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">gan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PCLE_" pos="Pcle">kiʼl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">vai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PCLE_" pos="Pcle">agā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">varbūt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PCLE_" pos="Pcle">agā</t> </tg> </mg> </e>
+<e> <lg> <l pos="PCLE-MOD">▫ nu ir</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PCLE-MOD_" pos="Pcle">niʼm</t> </tg> </mg> </e>
+<e> <lg> <l pos="PCLE-MOD">vai tad</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PCLE-MOD_" pos="Pcle">vȯšiz</t> </tg> </mg> </e>
+<e> <lg> <l pos="PCLE-MOD">▫ vai tiešām</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PCLE-MOD_" pos="Pcle">võseʼm</t> </tg> </mg> </e>
+</r>
