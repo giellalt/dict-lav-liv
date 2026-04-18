@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
+remote_theme: giellalt/jekyll-theme-giellalt@main
 title: Dictionary for Latvian ⇒ Liv (Livonian)
 description: An electronic dictionary from Latvian to Liv (Livonian)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jemoji
+
+defaults:
+  - scope: { path: "" }
+    values:
+      layout: minimal
